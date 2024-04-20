@@ -4,7 +4,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;BLOCKCHAIN+ENGINEER;DEVELOPER+ADVOCATE;TECHNICAL+WRITER)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=合约工程师，目前经营一家撸毛工作室;BLOCKCHAIN+ENGINEER;DEVELOPER+ADVOCATE;TECHNICAL+WRITER)](https://git.io/typing-svg)
  
  
 
@@ -25,26 +25,25 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-🍁 I am building [Delibra](https://delibra.xyz/), a decentralized library/bookstore. <br>
+🍁 I am building [defi](https://space.bilibili.com/323920542?spm_id_from=333.1007.0.0), a decentralized financial protocol. <br>
 
-👩‍Google's Women Tech Maker Ambassador, and Chimoney Ambassador <br>
 
 👯Volunteered at different tech events as a Dev Advocate and organiser<br>
 
 👑Hackathon Winner and Open Source Contributor for repositories affiliated with personal, learning, community, and organization projects. <br>
 
-📖  I’m learning Typescript, Solidity and Rust at the moment. <br>
+📖  I’m learning rust, Solidity and cairo at the moment. <br>
 
-💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
+💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my [blibli](https://space.bilibili.com/323920542?spm_id_from=333.1007.0.0) and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
 
  
-💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
+💬 Ask me about : Technical writing, contract development, and Web 3 <br> 
 
-🤟I love traveling, listening to music , reading, and networking <br>  
+🤟I love philosophy, listening to music , reading, and networking <br>  
 
 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles<br>
 
-⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
+
 
 <img align="left"  width="150" height="150" src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
 
@@ -110,14 +109,12 @@
 
  
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
-- [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
-- [Contributing to Chimoney&#39;s Api](https://khadeeejah.hashnode.dev/contributing-to-chimoneys-api)
-- [My  Chisquad Journey 🤑](https://khadeeejah.hashnode.dev/my-chisquad-journey)
-- [My Latest Project....](https://khadeeejah.hashnode.dev/my-latest-project)
-<!-- BLOG-POST-LIST:END -->
+### 📕 Latest vedio Posts
+<!-- VEDIO-POST-LIST:START -->
+- [defi financial](https://www.bilibili.com/video/BV1fz4y1N7Qe/?spm_id_from=333.999.0.0)
+- [撸毛业务](https://www.bilibili.com/video/BV1LK421y7cr/?spm_id_from=333.999.0.0)
+
+<!-- VEDIO-POST-LIST:END -->
 <br>
 
  
