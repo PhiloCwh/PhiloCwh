@@ -1,11 +1,17 @@
-![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
 
-
-
+![image](https://github.com/PhiloCwh/PhiloCwh/assets/105807963/082bde63-44d0-4c89-b6db-187c0eed867b)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=合约工程师，目前经营一家撸毛工作室)](https://git.io/typing-svg)
  
+### 📕 Latest vedio Posts
+<!-- VEDIO-POST-LIST:START -->
+- [defi financial](https://www.bilibili.com/video/BV1fz4y1N7Qe/?spm_id_from=333.999.0.0)
+- [撸毛业务](https://www.bilibili.com/video/BV1LK421y7cr/?spm_id_from=333.999.0.0)
+
+<!-- VEDIO-POST-LIST:END -->
+<br>
+
  
 
          
@@ -107,14 +113,6 @@
 
 
  
-
-### 📕 Latest vedio Posts
-<!-- VEDIO-POST-LIST:START -->
-- [defi financial](https://www.bilibili.com/video/BV1fz4y1N7Qe/?spm_id_from=333.999.0.0)
-- [撸毛业务](https://www.bilibili.com/video/BV1LK421y7cr/?spm_id_from=333.999.0.0)
-
-<!-- VEDIO-POST-LIST:END -->
-<br>
 
  
 <h2>✍🏽 Sign Out</h2>
