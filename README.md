@@ -3,6 +3,11 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=合约工程师，目前经营一家撸毛工作室)](https://git.io/typing-svg)
+
+### solidity dev
+### rust dev
+### fuel dev
+
  
 ### 📕 Latest vedio Posts
 <!-- VEDIO-POST-LIST:START -->
@@ -51,7 +56,6 @@
 
 
 
-<img align="left"  width="150" height="150" src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
 
 
 <img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
@@ -61,8 +65,8 @@
 
 
 
-
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PhiloCwh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiloCwh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
   
