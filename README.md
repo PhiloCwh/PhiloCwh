@@ -55,21 +55,19 @@
 
 
 
-<img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
 
 
 
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PhiloCwh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiloCwh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=PhiloCwh&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=PhiloCwh&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=PhiloCwh&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Yanbo's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PhiloCwh&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PhiloCwh&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
 
 
 &nbsp;
